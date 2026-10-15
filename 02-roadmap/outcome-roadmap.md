@@ -1,4 +1,4 @@
-[plc-m2-lab.md](https://github.com/user-attachments/files/33490783/plc-m2-lab.md)# Outcome Roadmap & Trade-off Memo: [Fable / Meridian / your initiative]
+# Outcome Roadmap & Trade-off Memo: [Fable / Meridian / your initiative]
 
 > Module 2 · Prioritization & Roadmapping for Product Leaders, ★ Deliverable 2
 >
@@ -27,7 +27,6 @@ _What did you sequence first, what did you push out, and what did you cut entire
 > I cut … entirely because …
 
 ## Link to full artifact
-[Uploading plc-m2-lab.md…]()
 
 _[link to this deliverable in your repo]_
 
