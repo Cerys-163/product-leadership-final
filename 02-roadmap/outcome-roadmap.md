@@ -1,5 +1,50 @@
 # Outcome Roadmap & Trade-off Memo: [Fable / Meridian / your initiative]
 
+> Module 2 · Turn Your Strategy into an Outcome Roadmap, ★ Deliverable 2
+
+## 1. Outcome roadmap
+
+| Horizon | Outcome / bet | Owning team(s) | Success signal |
+|---|---|---|---|
+| Now (0 to 3 mo) | _____ | _____ | _____ |
+| Next (3 to 6 mo) | _____ | _____ | _____ |
+| Later (6 to 12 mo) | _____ | _____ | _____ |
+
+Roadmap visual: _____
+
+## 2. Trade-off memo
+
+> **Rock #1:** Rock #1: #1 Offline-first mobile experience. Site leads won’t log 3+ days a week if the app fails on a site with no signal, so this is the base for KR1. Our capacity rule also makes it a prerequisite for everything in Q2.
+>
+> **Rock #2:** Rock #2: #4 Simplify the daily log from 14 fields to 4. Daily logs are our first Q1 use case. Cutting the fields is the cheapest, most direct way to raise how often site leads log (KR1) and to make logging quicker than a group text.
+>
+> **Rock #3:** Rock #3: #2 Photo markup and annotation, scoped to include tagging existing subcontractors on an issue. Issues and snags with photos are our other Q1 use case, so this moves the share of issues raised in the field app (KR2). Tagging subs routes issues to the right person sooner, which also helps KR3.
+>
+> **Hard No #1:** Hard No #1: #10 Executive reporting dashboard with custom KPIs. Our one hard no is new enterprise analytics during Foundations, and dashboards built on data the field never enters just build on the gap. Customer success will manage the two at-risk renewals using existing reporting.
+>
+> **Hard No #2:** Hard No #2: #7 Separate foreman app. Our strategy is one capture layer added to the core platform, and a second app would split our 5 mobile engineers and the data. The field need is real, and Rocks 1–3 meet it inside the core product.
+>
+> **Hard No #3:** Hard No #3: #12 Time-tracking module. It’s a new module for 3 deals in negotiation, it does nothing for field adoption, and its effort is as high as offline sync. That would break our capacity rule.
+
+## Link to full artifact
+
+_[link to this deliverable in your repo]_
+
+## Lab notes
+
+**Show and swap**
+
+- **Do the Rock selections feel traceable to a clear strategy, or do they read like a feature list?:** _____
+- **Pick one Hard No and make the case for why it should actually be a Rock.:** _____
+
+**Review and refine**
+
+- **Does every Now item read as a strategic bet, or does it sound like a feature description?:** Partly. Each one is written as “if X, then Y”, but the brackets name features (offline-first, 4 fields, photo markup), so the eye lands on the solution. None says how we’d know the bet has failed, so they read more like hopes than testable bets. Bet 2 also puts the solution (“4 fields”) in the bet itself.
+- **Can you trace every Now item back to one of your OKRs?:** Yes. Two map to KR1 and one to KR2. KR3 has no Now item, which is deliberate: it’s measured this quarter and committed in Q2, and the column says so. The weak spot is that two of the three bets sit on KR1, so if KR1 stalls, most of the quarter stalls with it.
+- **If someone who had never seen your strategy read the Now column, would they know what problem you are solving this quarter?:** No. It explains what we’re betting on but not the problem behind it: field teams record site work in phone cameras and WhatsApp, and the office re-keys it late or never. “Site leads”, “sub” and “re-keyed” also assume you already know the context.
+[outcome-roadmap.md](https://github.com/user-attachments/files/34129441/outcome-roadmap.md)
+# Outcome Roadmap & Trade-off Memo: [Fable / Meridian / your initiative]
+
 > Module 2 · Prioritization & Roadmapping for Product Leaders, ★ Deliverable 2
 >
 > Translate your strategy into a multi-team, outcome-driven roadmap, and a memo defending the hard prioritization calls behind it.
