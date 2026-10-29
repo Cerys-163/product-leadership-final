@@ -6,9 +6,9 @@
 
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
-| Now (0 to 3 mo) | _____ | _____ | _____ |
-| Next (3 to 6 mo) | _____ | _____ | _____ |
-| Later (6 to 12 mo) | _____ | _____ | _____ |
+| Now (0 to 3 mo) | _test____ | __test___ | __test___ |
+| Next (3 to 6 mo) | __test___ | ___etes__ | __test___ |
+| Later (6 to 12 mo) | __test___ | __test___ | __test___ |
 
 Roadmap visual: _____
 
