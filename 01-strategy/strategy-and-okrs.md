@@ -1,4 +1,4 @@
-# Product Strategy One-Pager & OKRs: [Fable / Meridian / your initiative]
+# Product Strategy One-Pager & OKRs: [Meridian]
 
 >  Module 1 · Craft an Advanced Product Strategy, ★ Deliverable 1
 >
@@ -15,7 +15,7 @@ _One line on why you picked it._
 
 | Question | Your choice |
 |---|---|
-| **Winning aspiration**: winning in the customer's terms, not internal metrics | _____ |
+| **Winning aspiration**: winning in the customer's terms, not internal metrics | A site superintendent can log progress, issues and sign-offs from their phone, on the spot, faster than sending a group text. Nobody in the office has to re-key it. Winning means foremen pick Meridian over WhatsApp because it makes their day easier, not because head office makes them use it. |
 | **Where to play**: segment, geography, channel, use case (the no's matter too) | _____ |
 | **How to win**: your differentiator competitors can't easily replicate | _____ |
 | **Capabilities required**: what you must be world-class at (build / buy / partner) | _____ |
