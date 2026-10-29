@@ -25,7 +25,7 @@ _One line on why you picked it._
 
 _One valuable thing you are explicitly choosing **not** to do, and why it protects the focus of everything above. This is a deliberate trade-off, not a backlog of deprioritized items._
 
-> We will not … because …
+> We will not expand enterprise analytics, ERP integrations or a top-10 account push during Foundations. Existing features stay fully supported, as contracts require, but new investment goes to the field. Deeper analytics on data that field teams never enter just builds on a gap. Field capture makes every enterprise feature more valuable, because the data finally reflects what’s happening on site.
 
 ## 3. OKR cascade
 
