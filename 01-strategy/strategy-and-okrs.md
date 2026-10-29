@@ -1,6 +1,6 @@
 # Product Strategy One-Pager & OKRs: [Fable / Meridian / your initiative]
 
-> Module 1 · Craft an Advanced Product Strategy, ★ Deliverable 1
+>  Module 1 · Craft an Advanced Product Strategy, ★ Deliverable 1
 >
 > Your one spine: the **Playing to Win** cascade, one deliberate **hard no**, and an **OKR cascade** that flows directly from it.
 > Draft the cascade + hard no in Sprint 1, then add the OKRs in Sprint 2. The goal: specific enough that a skeptical board member couldn't poke a hole in it.
